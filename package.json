@@ -1,0 +1,17 @@
+{
+  "name": "publicacionesdeblog",
+  "version": "1.0.0",
+  "main": "api-blogs.js",
+  "scripts": {
+    "start": "node api-blogs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
